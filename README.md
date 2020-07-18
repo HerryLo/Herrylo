@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Head First Design Patterns
+- ❤️ I like Javascript and Nodejs 、React
 
-- ❤️ like Javascript and Nodejs 、React
+- 🌱 I’m currently learning Head First Design Patterns
