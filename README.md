@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning [Head First Design Patterns](https://www.bilibili.com/video/BV13t411e7XT?p=11)
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Herrylo)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Herrylo)]
