@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ❤️ like Javascript and Nodejs 、React
+
 - [![Herrylo's github stats](https://github-readme-stats.vercel.app/api?username=Herrylo)](https://github.com/anuraghazra/github-readme-stats)
 - 💬 **掘金 Juejin**：[Juejin Link](https://juejin.cn/user/430664289365608)
 - 💬 **Segmentfault**：[Segmentfault Link](https://segmentfault.com/u/herrylo)
 - 💬 **个人博客 Blog**：[博客 Link](https://herrylo.github.io)
+- - ❤️ like Javascript and Nodejs 、React
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Herrylo&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
